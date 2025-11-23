@@ -1,0 +1,10 @@
+# Visual Studio 임시 파일
+.vs/
+*.user
+*.suo
+
+# 빌드 결과물
+bin/
+obj/
+Debug/
+Release/
